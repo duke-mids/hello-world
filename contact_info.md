@@ -4,3 +4,5 @@
 + Joshua King - MIDS Data Science Capstone Director - joshua.j.king@duke.edu - Github username: @Duke-MIDS-jjk
 
 ## Partner
+
+## Other Duke Faculty / Staff
